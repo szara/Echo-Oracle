@@ -1,2 +1,2 @@
 # Echo-Oracle
-nothing to read
+nothing to read. This is it.
